@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ab233776.chunk.css",
+    "main.js": "/static/js/main.98e9c9c8.chunk.js",
+    "main.js.map": "/static/js/main.98e9c9c8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d78bfa42.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d78bfa42.js.map",
+    "static/css/2.ad1e1245.chunk.css": "/static/css/2.ad1e1245.chunk.css",
+    "static/js/2.588021b3.chunk.js": "/static/js/2.588021b3.chunk.js",
+    "static/js/2.588021b3.chunk.js.map": "/static/js/2.588021b3.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.feb2fe7bc433b1f0c0f8ef4d7da7d980.js": "/precache-manifest.feb2fe7bc433b1f0c0f8ef4d7da7d980.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.ad1e1245.chunk.css.map": "/static/css/2.ad1e1245.chunk.css.map",
+    "static/css/main.ab233776.chunk.css.map": "/static/css/main.ab233776.chunk.css.map",
+    "static/js/2.588021b3.chunk.js.LICENSE.txt": "/static/js/2.588021b3.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/BreeSerif-Regular.14aaff01.ttf",
+    "static/media/Rubik-Regular.ttf": "/static/media/Rubik-Regular.09556186.ttf",
+    "static/media/App.css": "/static/media/icons-20.cef8cdbb.woff",
+    "static/media/solving_demo.gif": "/static/media/solving_demo.16f59787.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d78bfa42.js",
+    "static/css/2.ad1e1245.chunk.css",
+    "static/js/2.588021b3.chunk.js",
+    "static/css/main.ab233776.chunk.css",
+    "static/js/main.98e9c9c8.chunk.js"
+  ]
+}
